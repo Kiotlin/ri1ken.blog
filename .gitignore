@@ -1,6 +1,7 @@
 node_modules
 .next
 .DS_Store
+.vscode
 yarn-error.log
 dist
 examples
