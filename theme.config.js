@@ -47,7 +47,7 @@ export default {
     host: 'your_host(optional)',
     lang: 'your_lang'
   },
-  darkMode: false,
+  darkMode: true,
   navs: [
     {
       url: 'https://github.com/Kiotlin/ri1ken.blog',
