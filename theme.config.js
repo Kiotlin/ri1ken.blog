@@ -12,8 +12,8 @@ export default {
         GitHub
       </a>{" "}
       ·{" "}
-      <a href="mailto:r@iken.ri" target="_blank">
-        r@iken.ri
+      <a href="mailto:r@iken.moe" target="_blank">
+        r@iken.moe
       </a>
       <small style={{ display: "block", marginTop: "8rem" }}>
         <abbr
