@@ -1,6 +1,6 @@
 ---
-title: 艾欧泽亚国际服日记
-date: 2022-08-21
+title: '艾欧泽亚国际服日记'
+date: 2022-08-21 06:56:30
 description: my ff14 dairy
 author: rice chicken
 ---

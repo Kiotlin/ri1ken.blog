@@ -1,5 +1,5 @@
 ---
-title: 一次轻微的文化冲突引发的思考
+title: '一次轻微的文化冲突引发的思考'
 date: 2022-08-19 16:45:50
 description: thought in summer holiday
 author: ri1ken
