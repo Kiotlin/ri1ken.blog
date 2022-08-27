@@ -42,10 +42,5 @@ export default {
   readMore: 'Read More →',
   titleSuffix: null,
   postFooter: null,
-  cusdis: {
-    appId: 'your_app_id',
-    host: 'your_host(optional)',
-    lang: 'your_lang'
-  },
   darkMode: true
 }
