@@ -4,16 +4,8 @@
         <description><![CDATA[ri1ken]]></description>
         <link>https://ri1ken-blog.vercel.app/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Aug 2022 22:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 09:38:03 GMT</lastBuildDate>
         <atom:link href="https://ri1ken-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[一个人]]></title>
-            <description><![CDATA[记一个温暖如春的午后]]></description>
-            <link>/posts/one-person</link>
-            <guid isPermaLink="true">/posts/one-person</guid>
-            <dc:creator><![CDATA[ri1ken]]></dc:creator>
-            <pubDate>Sat, 28 May 2022 20:55:41 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[艾欧泽亚国际服日记]]></title>
             <description><![CDATA[my ff14 dairy]]></description>
@@ -23,20 +15,9 @@
             <pubDate>Sun, 21 Aug 2022 06:56:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[记一次交响乐现场]]></title>
-            <description><![CDATA[我的第一次交响乐现场试听体验]]></description>
-            <link>/posts/symphony-live</link>
-            <guid isPermaLink="true">/posts/symphony-live</guid>
-            <dc:creator><![CDATA[ri1ken]]></dc:creator>
-            <pubDate>Mon, 01 Aug 2022 05:23:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一次轻微的文化冲突引发的思考]]></title>
-            <description><![CDATA[thought in summer holiday]]></description>
-            <link>/posts/thought-in-summer-camp</link>
-            <guid isPermaLink="true">/posts/thought-in-summer-camp</guid>
-            <dc:creator><![CDATA[ri1ken]]></dc:creator>
-            <pubDate>Fri, 19 Aug 2022 16:45:50 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <link>/posts/.DS_Store</link>
+            <guid isPermaLink="true">/posts/.DS_Store</guid>
         </item>
         <item>
             <title><![CDATA[与太平洋隣接的城市]]></title>
@@ -47,9 +28,20 @@
             <pubDate>Sat, 29 Aug 2020 20:45:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>/posts/.DS_Store</link>
-            <guid isPermaLink="true">/posts/.DS_Store</guid>
+            <title><![CDATA[记一次交响乐现场]]></title>
+            <description><![CDATA[我的第一次交响乐现场试听体验]]></description>
+            <link>/posts/symphony-live</link>
+            <guid isPermaLink="true">/posts/symphony-live</guid>
+            <dc:creator><![CDATA[ri1ken]]></dc:creator>
+            <pubDate>Mon, 01 Aug 2022 05:23:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一个人]]></title>
+            <description><![CDATA[记一个温暖如春的午后]]></description>
+            <link>/posts/one-person</link>
+            <guid isPermaLink="true">/posts/one-person</guid>
+            <dc:creator><![CDATA[ri1ken]]></dc:creator>
+            <pubDate>Sat, 28 May 2022 20:55:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
