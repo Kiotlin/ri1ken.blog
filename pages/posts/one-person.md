@@ -1,4 +1,5 @@
 ---
+type: post
 title: '一个人'
 date: 2022-05-28 20:55:41
 description: 记一个温暖如春的午后

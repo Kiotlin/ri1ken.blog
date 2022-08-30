@@ -1,4 +1,5 @@
 ---
+type: blog
 title: 'Build -- Tony Dadell, a note taking'
 date: 2022-08-27 15:11:25
 author: ri1ken

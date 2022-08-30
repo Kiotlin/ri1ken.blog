@@ -1,4 +1,5 @@
 ---
+type: post
 title: '与太平洋隣接的城市'
 date: 2020-08-29 20:45:21
 description: 来日后的第一个盛夏

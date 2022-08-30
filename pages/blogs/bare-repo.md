@@ -1,4 +1,5 @@
 ---
+type: blog
 title: 'Bare repository in Git'
 date: 2022-03-04 16:19:05
 description: 使用github自带的export功能导出了意料之外的目录

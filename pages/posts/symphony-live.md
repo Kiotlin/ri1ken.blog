@@ -1,4 +1,5 @@
 ---
+type: post
 title: '记一次交响乐现场'
 date: 2022-08-01 05:23:30
 description: 我的第一次交响乐现场试听体验

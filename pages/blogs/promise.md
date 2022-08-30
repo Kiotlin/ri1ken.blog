@@ -1,4 +1,5 @@
 ---
+type: blog
 title: 'Promise - an implementation'
 date: 2022-08-30 02:08:18
 author: ri1ken
