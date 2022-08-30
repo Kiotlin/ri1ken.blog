@@ -5,7 +5,7 @@ author: ri1ken
 description: A date structure of JS Promise implemented by Lee
 ---
 
-```Javascript
+```javascript
 const PENDING = 'Pending';
 const FULLFILL = 'FullFilled';
 const REJECT = 'Rejected';
