@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[ri1ken]]></title>
         <description><![CDATA[ri1ken]]></description>
-        <link>https://ri1ken-blog.vercel.app/</link>
+        <link>https://iken.moe/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Aug 2022 11:48:48 GMT</lastBuildDate>
-        <atom:link href="https://ri1ken-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 30 Aug 2022 12:57:32 GMT</lastBuildDate>
+        <atom:link href="https://iken.moe/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[艾欧泽亚国际服日记]]></title>
             <description><![CDATA[my ff14 dairy]]></description>
