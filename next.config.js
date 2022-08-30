@@ -3,4 +3,5 @@ const withNextra = require('nextra')({
   themeConfig: './theme.config.js',
   unstable_staticImage: true,
 })
+
 module.exports = withNextra()
