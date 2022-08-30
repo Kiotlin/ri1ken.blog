@@ -4,8 +4,13 @@
         <description><![CDATA[ri1ken]]></description>
         <link>https://iken.moe/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Aug 2022 12:57:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 13:26:36 GMT</lastBuildDate>
         <atom:link href="https://iken.moe/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>/posts/.DS_Store</link>
+            <guid isPermaLink="true">/posts/.DS_Store</guid>
+        </item>
         <item>
             <title><![CDATA[艾欧泽亚国际服日记]]></title>
             <description><![CDATA[my ff14 dairy]]></description>
@@ -13,6 +18,14 @@
             <guid isPermaLink="true">/posts/ff14-dairy</guid>
             <dc:creator><![CDATA[rice chicken]]></dc:creator>
             <pubDate>Sun, 21 Aug 2022 06:56:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2018我都听了什么歌]]></title>
+            <description><![CDATA[Followed with Cao, I also summized my own album list.]]></description>
+            <link>/posts/music-list-2018</link>
+            <guid isPermaLink="true">/posts/music-list-2018</guid>
+            <dc:creator><![CDATA[ri1ken]]></dc:creator>
+            <pubDate>Tue, 01 Jan 2019 00:41:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[一个人]]></title>
@@ -37,11 +50,6 @@
             <guid isPermaLink="true">/posts/the-city-near-the-sea</guid>
             <dc:creator><![CDATA[ri1ken]]></dc:creator>
             <pubDate>Sat, 29 Aug 2020 20:45:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>/posts/.DS_Store</link>
-            <guid isPermaLink="true">/posts/.DS_Store</guid>
         </item>
     </channel>
 </rss>
