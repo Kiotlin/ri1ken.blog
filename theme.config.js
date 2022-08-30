@@ -1,6 +1,46 @@
 const YEAR = new Date().getFullYear();
 
 export default {
+  head: ({ meta }) => {
+    return (
+      <>
+        <meta name="author" content="ri1ken" />
+        <link rel="canonical" href="https://iken.moe" />
+        <meta name="title" content={meta.title} />
+        <meta property="description" content={meta.description} />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content={meta.title} />
+        <meta property="og:description" content={meta.description} />
+        <meta property="og:url" content="https://iken.moe" />
+        <meta
+          property="og:image"
+          content={meta.image || "https://iken.moe/logo.png"}
+        />
+        <meta property="twitter:card" content="summary" />
+        <meta property="twitter:site" content="@Kiokh_" />
+        <meta property="twitter:title" content={meta.title} />
+        <meta property="twitter:description" content={meta.description} />
+        <meta property="twitter:url" content="https://iken.moe" />
+        <meta
+          property="twitter:image"
+          content={meta.image || "https://iken.moe/logo.png"}
+        />
+        <link
+          rel="alternate"
+          type="application/rss+xml"
+          title="RSS"
+          href="/feed.xml"
+        />
+        <link
+          rel="preload"
+          href="/fonts/InterDisplay-roman.var.woff2"
+          as="font"
+          type="font/woff2"
+          crossOrigin="anonymous"
+        />
+      </>
+    );
+  },
   footer: (
     <div>
       <hr />
