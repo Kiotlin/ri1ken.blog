@@ -55,11 +55,11 @@ DPS。我决定去野外的木桩来熟悉一下新职业的技能释放，就�
 import Script from 'next/script';
 export function IconEmbed({link, text}) {
     const A = 'a';
-
     return (
         <>
             <A href={link} className="eorzeadb_link">{text}</A>
             <Script src="https://img.finalfantasyxiv.com/lds/pc/global/js/eorzeadb/loader.js?v2"/>
+            <style dangerouslySetInnerHTML={{__html:`#eorzeadb_tooltip{overflow: visible !important}`}}/>
         </>
     );
 }
