@@ -150,3 +150,89 @@ console.log(typeof myFunc === 'function'); // true
 ```
 
 ## Detecting Array
+
+Using `Array.isArray()` to detect an array.
+
+Main implementaion behind:
+
+```javascript
+function isArray(obj) {
+    if (typeof Array.isArray === 'function') {
+        return Array.isArray(obj);
+    } else {
+        return Object.prototype.toString.call(obj) === '[Object Array]';
+    }
+}
+```
+
+## Detecting Properties
+
+Using the `in` operator. The `in` opertor simply checks for the presence of the named property without reading its value. 
+
+```javascript
+const value = {
+    count: 0,
+    related: null,
+}
+
+// good
+if ('count' in value) {
+    // do someting
+}
+
+if ('related' in value) {
+    // do something
+}
+
+// bad: checking falsy value
+if (value['count']) {
+    // code here will not run
+}
+
+// bad: checking aganist null
+if(value['related'] != null) {
+    // code here will not run
+}
+```
+
+if you only want to check for the existence of a property on the object instance, using `hasOwnProperty` method.
+
+```javascript
+if (obj.hasOwnProperty('related')) {
+    // do something
+}
+```
+
+## Seperate Configure Data from Code
+
+Externalize the configration data:
+
+```javascript
+const config = {
+    MSG_INVALID_VALUE: "invalid_date",
+    URL_INVALID: "/errors/invalid.php",
+    CSS_SELECTED: "selected",
+}
+```
+
+Or, storing the data in a seperated file:
+
+```json
+//JSON
+{
+    "MSG_INVALID_VALUE": "invalid_date",
+    "URL_INVALID": "/errors/invalid.php",
+    "CSS_SELECTED": "selected",
+}
+```
+```json
+//JSONP
+callback({
+    "MSG_INVALID_VALUE": "invalid_date",
+    "URL_INVALID": "/errors/invalid.php",
+    "CSS_SELECTED": "selected",
+})
+```
+
+## Error is our friend
+
