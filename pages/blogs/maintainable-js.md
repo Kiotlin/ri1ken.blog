@@ -234,5 +234,32 @@ callback({
 })
 ```
 
-## Error is our friend
+## Distinguish Your Errors
 
+You can create your own error type to distinguish between your own errors and browser-thrown ones.
+
+Inherit your error type from `Error`, which allows you to provide additional information. You can create a custom error type using the following pattern:
+
+```javascript
+function MyError(msg) {
+    this.message = msg;
+}
+
+MyError.prototype = new Error();
+```
+
+The big advantage of this approach is that custom error objects allow you to test specifically for your own errors:
+
+```javascript
+try {
+    // some code that might cause error
+} catch(e) {
+    if (e instanceof MyError) {
+        // handle your own error
+    } else {
+        // handle system error
+    }
+}
+```
+
+## Don't Modify Objects You Don't Own
