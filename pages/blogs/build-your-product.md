@@ -3,10 +3,14 @@ type: blog
 title: 'Build your product'
 date: 2022-09-19 22:40:00
 author: ri1ken
-description: This is an unorthodox guide book to make things worth making
+description: A note taking for "Build -- Tony Fadell" chapter 3.
 ---
 
-本文为"Build, A Unorthodox Guide to Making Things Worth Making -- Tony Fadell"的读书笔记，在总结作者思想的基础上，添加了一点点个人领悟。
+接上回，在Tony Fadell（缩写T.F.）眼里，在Apple工作的9年，他真正意义上感受到了自我的成长，也领悟了设计的意义。在经历了将近10年的试错，他最终做出了一些真正被人们所需要的产品。也许你可以从他的经验中获得些什么。
 
-### Build Your Product
+### Make The Intangible Tangible
+
+人是很容易分心的，我们总是会趋向于将注意力集中于那些看得见摸得着，非常明确的事物中，从而会忽视一些不够明确的体验和感受。而这些不明确的事物在有些时候往往非常重要。作为一名设计师，我们往往最关心的是一个产品的原型（外观交互等）和功能（软硬件），试想如果将这两部分做到极致便能让用户买账，这其实是一个误区。用户的产品体验往往从茫茫互联网中发现这样一款产品的时候便开始了，经历抉择（即是否有满足用户需求）、安装（部署）、使用、维修、甚至于退货等多个环节，才真正完成一个产品的生命周期，这中间的每一个环节都至关重要，而我们所最为关注的产品本身往往只是其中微小的组成部分之一。让处在我们视线之外的那些不明确的，但直接影响用户体验的环节变得明确，这很重要。
+
+
 
