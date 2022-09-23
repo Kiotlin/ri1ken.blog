@@ -4,12 +4,47 @@
         <description><![CDATA[ri1ken]]></description>
         <link>https://iken.moe/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Aug 2022 13:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 18:14:46 GMT</lastBuildDate>
         <atom:link href="https://iken.moe/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>/posts/.DS_Store</link>
-            <guid isPermaLink="true">/posts/.DS_Store</guid>
+            <title><![CDATA[Bare repository in Git]]></title>
+            <description><![CDATA[使用github自带的export功能导出了意料之外的目录]]></description>
+            <link>/blogs/bare-repo</link>
+            <guid isPermaLink="true">/blogs/bare-repo</guid>
+            <dc:creator><![CDATA[ri1ken]]></dc:creator>
+            <pubDate>Fri, 04 Mar 2022 16:19:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build your product]]></title>
+            <description><![CDATA[A note taking for "Build -- Tony Fadell" chapter 3.]]></description>
+            <link>/blogs/build-your-product</link>
+            <guid isPermaLink="true">/blogs/build-your-product</guid>
+            <dc:creator><![CDATA[ri1ken]]></dc:creator>
+            <pubDate>Mon, 19 Sep 2022 22:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build yourself at work]]></title>
+            <description><![CDATA[This is an unorthodox guide book to make things worth making]]></description>
+            <link>/blogs/build</link>
+            <guid isPermaLink="true">/blogs/build</guid>
+            <dc:creator><![CDATA[ri1ken]]></dc:creator>
+            <pubDate>Sat, 27 Aug 2022 15:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maintainable Js]]></title>
+            <description><![CDATA[Note taking for "Maintainable JavaScript -- Nicholas C. Zakas"]]></description>
+            <link>/blogs/maintainable-js</link>
+            <guid isPermaLink="true">/blogs/maintainable-js</guid>
+            <dc:creator><![CDATA[ri1ken]]></dc:creator>
+            <pubDate>Mon, 12 Sep 2022 03:28:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Promise - an implementation]]></title>
+            <description><![CDATA[A date structure of JS Promise implemented by Lee]]></description>
+            <link>/blogs/promise</link>
+            <guid isPermaLink="true">/blogs/promise</guid>
+            <dc:creator><![CDATA[ri1ken]]></dc:creator>
+            <pubDate>Tue, 30 Aug 2022 02:08:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[艾欧泽亚国际服日记]]></title>
