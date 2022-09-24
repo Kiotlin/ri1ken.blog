@@ -4,9 +4,10 @@ export default {
   head: ({ meta }) => {
     return (
       <>
+        <title>{meta.title + ' - iken.moe'}</title>
         <meta name="author" content="ri1ken" />
         <link rel="canonical" href="https://iken.moe" />
-        <meta name="title" content={meta.title} />
+        <meta name="title" content={meta.title + ' - iken.moe'} />
         <meta property="description" content={meta.description} />
         <meta property="og:type" content="website" />
         <meta property="og:title" content={meta.title} />
@@ -30,13 +31,6 @@ export default {
           type="application/rss+xml"
           title="RSS"
           href="/feed.xml"
-        />
-        <link
-          rel="preload"
-          href="/fonts/InterDisplay-roman.var.woff2"
-          as="font"
-          type="font/woff2"
-          crossOrigin="anonymous"
         />
       </>
     );
