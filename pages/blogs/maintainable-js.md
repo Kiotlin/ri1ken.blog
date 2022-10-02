@@ -262,4 +262,24 @@ try {
 }
 ```
 
-## Don't Modify Objects You Don't Own
+## File and Directory Structure
+
+ 1. One object per file
+ 2. Group related files in directories
+ 3. Keep 3rd-part code seperated
+ 4. Detemine build location
+ 5. Keep test code 
+
+a populart layout:
+
+```js
+- project_name
+ - build // For the final built files, shouldn't be checked in.
+ - src
+ - tests // It is recommended to keep the same structure with your modules directories: 'js/example.js' and 'tests/example.js'
+ - docs
+```
+
+## Build Tool
+
+The choice of a build tool is usually based on the tools familiar to the developers who will be using it. 
