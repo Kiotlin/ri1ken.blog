@@ -283,3 +283,9 @@ a populart layout:
 ## Build Tool
 
 The choice of a build tool is usually based on the tools familiar to the developers who will be using it. 
+
+## Minification and Compression
+
+## Documentation
+
+## Automated Testing
