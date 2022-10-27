@@ -1,6 +1,7 @@
 import 'nextra-theme-blog/style.css'
 import '../styles/main.css'
 
+// eslint-disable-next-line import/no-unresolved
 import { Analytics } from '@vercel/analytics/react'
 
 export default function Nextra({ Component, pageProps }) {
