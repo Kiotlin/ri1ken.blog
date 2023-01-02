@@ -49,6 +49,11 @@ export default {
       <a href="mailto:r@iken.moe" target="_blank">
         r@iken.moe
       </a>
+      <a 
+        href="./"
+        style={{ float: "right" }}>
+        Back
+      </a>
       <small style={{ display: "block", marginTop: "8rem" }}>
         <abbr
           title="This site and all its content are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
