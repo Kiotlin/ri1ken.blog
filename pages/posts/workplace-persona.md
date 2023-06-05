@@ -3,7 +3,7 @@ type: post
 title: 职场肖像画
 date: 2023-06-05 10:38:33
 description: Some cute people around me.
-author ri1ken
+author: ri1ken
 ---
 
 #### arai
